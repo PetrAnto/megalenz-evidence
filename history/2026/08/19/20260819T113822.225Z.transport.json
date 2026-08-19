@@ -1,0 +1,18 @@
+{
+  "schema": "reader-observation-transport/v1",
+  "payloadSchema": "reader-observation/v1",
+  "payloadPath": "history/2026/08/19/20260819T113822.225Z.json",
+  "payloadSha256": "4a554f04627864d8fa82525e4c06a78367481c1e373a7ed677b644013e5afc63",
+  "attemptId": "20260819T113822.225Z",
+  "attemptedAt": "2026-08-19T11:38:22.225Z",
+  "publishedAt": "2026-08-19T11:40:23.693Z",
+  "source": {
+    "repository": "PetrAnto/megalenz",
+    "ref": "refs/heads/main",
+    "commitSha": "388a052700b551007e092ba18d7de0eaadd4bdbd"
+  },
+  "publisher": {
+    "kind": "github-app-installation",
+    "appSlug": "megalenz-evidence-publisher"
+  }
+}
