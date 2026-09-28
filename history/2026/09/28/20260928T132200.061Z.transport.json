@@ -1,7 +1,7 @@
 {
   "schema": "reader-observation-transport/v1",
   "payloadSchema": "reader-observation/v1",
-  "payloadPath": "latest.json",
+  "payloadPath": "history/2026/09/28/20260928T132200.061Z.json",
   "payloadSha256": "21bcd3e7a663396fb713f40260690885432790ea3463143a35ab1565f7a7d43f",
   "attemptId": "20260928T132200.061Z",
   "attemptedAt": "2026-09-28T13:22:00.061Z",
