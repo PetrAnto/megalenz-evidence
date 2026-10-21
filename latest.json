@@ -1,11 +1,11 @@
 {
   "methodologyVersion": "v0.9",
   "observationFreshness": {
-    "attemptedAt": "2026-10-20T11:11:54.401Z",
+    "attemptedAt": "2026-10-21T11:26:57.073Z",
     "completedAt": null,
     "error": null,
     "errorPhase": null,
-    "lastObservedAt": "2026-10-20T11:13:13.116Z",
+    "lastObservedAt": "2026-10-21T11:29:02.221Z",
     "operationalStatus": "ok",
     "outcome": "incomplete"
   },
@@ -71,7 +71,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:04.048Z",
+              "observedAt": "2026-10-21T11:27:17.978Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -140,7 +140,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:04.258Z",
+              "observedAt": "2026-10-21T11:27:18.320Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -209,7 +209,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:02.691Z",
+              "observedAt": "2026-10-21T11:27:15.642Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -278,7 +278,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:06.507Z",
+              "observedAt": "2026-10-21T11:27:22.238Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -347,7 +347,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:06.839Z",
+              "observedAt": "2026-10-21T11:27:22.722Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -416,7 +416,7 @@
               "implementationName": "Collector",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:05.033Z",
+              "observedAt": "2026-10-21T11:27:19.692Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -485,7 +485,7 @@
               "implementationName": "CrossChainControllerWithEmergencyMode",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:01.057Z",
+              "observedAt": "2026-10-21T11:27:12.785Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -554,7 +554,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:05.364Z",
+              "observedAt": "2026-10-21T11:27:20.230Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -623,7 +623,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:05.588Z",
+              "observedAt": "2026-10-21T11:27:20.707Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -692,7 +692,7 @@
               "implementationName": "RewardsController",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:04.471Z",
+              "observedAt": "2026-10-21T11:27:18.675Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -761,7 +761,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:04.818Z",
+              "observedAt": "2026-10-21T11:27:19.147Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -830,7 +830,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:01.973Z",
+              "observedAt": "2026-10-21T11:27:14.181Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -899,7 +899,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:09.895Z",
+              "observedAt": "2026-10-21T11:27:27.164Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -968,7 +968,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:10.216Z",
+              "observedAt": "2026-10-21T11:27:27.691Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1042,7 +1042,7 @@
               "implementationName": "PayloadsController",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:01.611Z",
+              "observedAt": "2026-10-21T11:27:13.667Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1111,7 +1111,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:03.237Z",
+              "observedAt": "2026-10-21T11:27:16.590Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1180,7 +1180,7 @@
               "implementationName": "L2PoolInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:02.905Z",
+              "observedAt": "2026-10-21T11:27:16.124Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1249,7 +1249,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:02.231Z",
+              "observedAt": "2026-10-21T11:27:14.705Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1318,7 +1318,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:02.472Z",
+              "observedAt": "2026-10-21T11:27:15.177Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1387,7 +1387,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:03.826Z",
+              "observedAt": "2026-10-21T11:27:17.443Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1456,7 +1456,7 @@
               "implementationName": "PoolConfiguratorInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:03.467Z",
+              "observedAt": "2026-10-21T11:27:16.956Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1525,7 +1525,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:10.525Z",
+              "observedAt": "2026-10-21T11:27:28.162Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1594,7 +1594,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:10.865Z",
+              "observedAt": "2026-10-21T11:27:28.726Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1663,7 +1663,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:07.826Z",
+              "observedAt": "2026-10-21T11:27:24.179Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1732,7 +1732,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:08.207Z",
+              "observedAt": "2026-10-21T11:27:24.647Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1801,7 +1801,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:07.159Z",
+              "observedAt": "2026-10-21T11:27:23.178Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1870,7 +1870,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:07.486Z",
+              "observedAt": "2026-10-21T11:27:23.713Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -1939,7 +1939,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:05.828Z",
+              "observedAt": "2026-10-21T11:27:21.184Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2008,7 +2008,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:06.160Z",
+              "observedAt": "2026-10-21T11:27:21.726Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2077,7 +2077,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:09.212Z",
+              "observedAt": "2026-10-21T11:27:26.185Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2146,7 +2146,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:09.568Z",
+              "observedAt": "2026-10-21T11:27:26.683Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2215,7 +2215,7 @@
               "implementationName": "ATokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:08.535Z",
+              "observedAt": "2026-10-21T11:27:25.213Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2284,7 +2284,7 @@
               "implementationName": "VariableDebtTokenInstance",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:08.857Z",
+              "observedAt": "2026-10-21T11:27:25.712Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2297,20 +2297,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "71851f07d27db2ba8144c070b20095eb4408ed4df162bcbb028c766b14f7c6ec",
+        "contentHash": "a3085a4feac1cda2e49c4d1e65e2a7af32bf9394daad7534b1d0d8251c926a13",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "permissions-book+on-chain",
         "state": "recorded"
       },
       "name": "Aave V3",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 33,
           "contractsErrored": 0,
@@ -2337,7 +2337,7 @@
       },
       "publicSources": [
         {
-          "consultedDuringAttempt": "2026-10-20T11:11:54.401Z",
+          "consultedDuringAttempt": "2026-10-21T11:26:57.073Z",
           "endpoint": "https://raw.githubusercontent.com/bgd-labs/aave-permissions-book/main/out/MEGAETH-V3.md",
           "note": "The configured public permissions book was reachable during this reader attempt.",
           "provider": "permissions-book",
@@ -2412,7 +2412,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:07.646Z",
+              "observedAt": "2026-10-21T11:28:51.762Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2481,7 +2481,7 @@
               "implementationName": "StrategyAaveSupplyOnly",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:07.864Z",
+              "observedAt": "2026-10-21T11:28:52.234Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2550,7 +2550,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:09.046Z",
+              "observedAt": "2026-10-21T11:28:54.162Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2619,7 +2619,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:08.841Z",
+              "observedAt": "2026-10-21T11:28:53.719Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2688,7 +2688,7 @@
               "implementationName": "StrategyAaveSupplyOnly",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:08.281Z",
+              "observedAt": "2026-10-21T11:28:52.778Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2757,7 +2757,7 @@
               "implementationName": "BeefyVaultV7",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:07.410Z",
+              "observedAt": "2026-10-21T11:28:51.400Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2826,7 +2826,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:08.625Z",
+              "observedAt": "2026-10-21T11:28:53.250Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -2839,20 +2839,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "321973f3df5f21ae15f3cacabd800760be2ee86ab60cdeefa9585cd1a9b0847a",
+        "contentHash": "727fb8ad6afb04c41627b0879c3ed6fac5a75368324753a230cab1c01e245100",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Beefy",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 7,
           "contractsErrored": 0,
@@ -2958,7 +2958,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:26.615Z",
+              "observedAt": "2026-10-21T11:27:57.731Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3037,7 +3037,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:26.949Z",
+              "observedAt": "2026-10-21T11:27:58.227Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3050,20 +3050,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "6a01896facbf47325b43de1b2c12a83d4f5b4153082d839cf650f5e6658cc0d5",
+        "contentHash": "9117a0dc41696444384257eeb6a800f32ff95b56ba91eaaba31cfcbd7a89372f",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Blackhaven",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 2,
           "contractsErrored": 0,
@@ -3108,13 +3108,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "An on-chain Ownable.owner call returned a result.",
+              "reason": "Blockscout reported deployed bytecode at this address.",
               "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "Blockscout exposed a verified source record for this address.",
+              "state": "established"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -3124,8 +3124,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported source verification for this exact address.",
+              "state": "established"
             }
           },
           "label": "iTRY (spoke OFT on MegaETH, role unconfirmed)",
@@ -3158,22 +3158,22 @@
           "sources": [
             {
               "compilerVersion": null,
-              "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "contractName": "iTRYTokenOFT",
+              "creationTxHash": "0x74256f7e7859514a24e766f36500f16f50042ca11c35ca78c1734f06d921ff41",
+              "creatorAddress": "0xc3Bb0C264Dc6DF4bd8Ef80e0e170C21E5bbe7d00",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:45.943Z",
+              "isContract": true,
+              "isVerified": true,
+              "observedAt": "2026-10-21T11:28:30.928Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "verified",
               "tags": []
             }
           ]
@@ -3188,13 +3188,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "An on-chain Ownable.owner call returned a result.",
+              "reason": "Blockscout reported deployed bytecode at this address.",
               "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "Blockscout exposed a verified source record for this address.",
+              "state": "established"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -3204,8 +3204,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported source verification for this exact address.",
+              "state": "established"
             }
           },
           "label": "iTRY-related satellite (role unconfirmed)",
@@ -3238,22 +3238,22 @@
           "sources": [
             {
               "compilerVersion": null,
-              "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "contractName": "iTryTokenOFT",
+              "creationTxHash": "0xbc34dbc93a62ff09ea992232d4f4ae8fdfd9c2fe543f74f70468523d1ba2c259",
+              "creatorAddress": "0xa4eDd65c28D3162e6c675437CfBcE6E215B428ce",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:48.130Z",
+              "isContract": true,
+              "isVerified": true,
+              "observedAt": "2026-10-21T11:28:31.290Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "verified",
               "tags": []
             }
           ]
@@ -3268,13 +3268,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "An on-chain Ownable.owner call returned a result.",
+              "reason": "Blockscout reported deployed bytecode at this address.",
               "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "Blockscout exposed a verified source record for this address.",
+              "state": "established"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -3284,8 +3284,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported source verification for this exact address.",
+              "state": "established"
             }
           },
           "label": "wiTRY-related satellite (likely wiTryVaultComposer)",
@@ -3318,22 +3318,22 @@
           "sources": [
             {
               "compilerVersion": null,
-              "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "contractName": "wiTRYOFT",
+              "creationTxHash": "0x480caf095ea726c501bc050dedaba7b45102171379fa36d2bf1191564cda8bd7",
+              "creatorAddress": "0xc3Bb0C264Dc6DF4bd8Ef80e0e170C21E5bbe7d00",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:43.598Z",
+              "isContract": true,
+              "isVerified": true,
+              "observedAt": "2026-10-21T11:28:30.570Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "verified",
               "tags": []
             }
           ]
@@ -3348,13 +3348,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "An on-chain Ownable.owner call returned a result.",
+              "reason": "Blockscout reported deployed bytecode at this address.",
               "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "Blockscout exposed a verified source record for this address.",
+              "state": "established"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -3364,8 +3364,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported source verification for this exact address.",
+              "state": "established"
             }
           },
           "label": "wiTryOFT (canonical wiTRY on MegaETH)",
@@ -3398,22 +3398,22 @@
           "sources": [
             {
               "compilerVersion": null,
-              "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "contractName": "wiTryOFT",
+              "creationTxHash": "0xad2179cf63475a6b8a69f080af89e32ea532f35d6145aab9c81c48d0ed44db5f",
+              "creatorAddress": "0xa4eDd65c28D3162e6c675437CfBcE6E215B428ce",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:41.423Z",
+              "isContract": true,
+              "isVerified": true,
+              "observedAt": "2026-10-21T11:28:30.224Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "verified",
               "tags": []
             }
           ]
@@ -3421,29 +3421,29 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "21ced2370977793fa4f98ce008df70f13f88858174487a770c2f76b3120f1e6f",
+        "contentHash": "381a50220e6b4bb0f75a2b38c423fe725028474563ec74c22ea8aff9ca41ced9",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-19T12:38:53.405Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-19T12:38:53.405Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Brix",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 4,
           "contractsErrored": 0,
           "contractsExpected": 4,
-          "decisionBranch": "fallback-soft-anomaly",
+          "decisionBranch": "on-chain-only",
           "dynamicResolved": 0,
           "dynamicUnresolved": [],
           "explorerExpected": 4,
-          "explorerFailed": 4,
+          "explorerFailed": 0,
           "hardAnomalies": [],
           "permissionsBookExpected": false,
           "permissionsBookReachable": false,
@@ -3453,66 +3453,17 @@
           "safesNotContract": 0,
           "safesNotSafe": 0,
           "safesResolved": 0,
-          "softAnomalies": [
-            {
-              "anomaly": "soft:explorer-fetch-failed",
-              "label": "wiTryOFT (canonical wiTRY on MegaETH)"
-            },
-            {
-              "anomaly": "soft:explorer-fetch-failed",
-              "label": "wiTRY-related satellite (likely wiTryVaultComposer)"
-            },
-            {
-              "anomaly": "soft:explorer-fetch-failed",
-              "label": "iTRY (spoke OFT on MegaETH, role unconfirmed)"
-            },
-            {
-              "anomaly": "soft:explorer-fetch-failed",
-              "label": "iTRY-related satellite (role unconfirmed)"
-            }
-          ]
+          "softAnomalies": []
         },
-        "insufficiencies": [
-          {
-            "detail": "4 of 4 explorer fetch(es) failed",
-            "kind": "explorer_fetch_failed",
-            "label": "explorer"
-          },
-          {
-            "detail": "soft:explorer-fetch-failed",
-            "kind": "soft_anomaly",
-            "label": "wiTryOFT (canonical wiTRY on MegaETH)"
-          },
-          {
-            "detail": "soft:explorer-fetch-failed",
-            "kind": "soft_anomaly",
-            "label": "wiTRY-related satellite (likely wiTryVaultComposer)"
-          },
-          {
-            "detail": "soft:explorer-fetch-failed",
-            "kind": "soft_anomaly",
-            "label": "iTRY (spoke OFT on MegaETH, role unconfirmed)"
-          },
-          {
-            "detail": "soft:explorer-fetch-failed",
-            "kind": "soft_anomaly",
-            "label": "iTRY-related satellite (role unconfirmed)"
-          }
-        ],
-        "outcome": "incomplete_reader",
+        "insufficiencies": [],
+        "outcome": "complete_verified_reader",
         "resolutionNotes": []
       },
       "publicSources": [],
       "scoringEligibility": {
-        "note": "Current evidence is incomplete. Absence of evidence is not converted into a failure or zero.",
-        "reasons": [
-          "explorer_fetch_failed",
-          "soft_anomaly",
-          "soft_anomaly",
-          "soft_anomaly",
-          "soft_anomaly"
-        ],
-        "state": "not_eligible"
+        "note": "This protocol's reader evidence satisfied the completeness gate and was promoted to the published scoring basis.",
+        "reasons": [],
+        "state": "eligible"
       },
       "slug": "brix"
     },
@@ -3577,7 +3528,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:04.545Z",
+              "observedAt": "2026-10-21T11:28:45.597Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3646,7 +3597,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:05.313Z",
+              "observedAt": "2026-10-21T11:28:46.793Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3715,7 +3666,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:04.989Z",
+              "observedAt": "2026-10-21T11:28:46.303Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3784,7 +3735,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:04.768Z",
+              "observedAt": "2026-10-21T11:28:45.941Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3853,7 +3804,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:03.656Z",
+              "observedAt": "2026-10-21T11:28:43.852Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3922,7 +3873,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:04.316Z",
+              "observedAt": "2026-10-21T11:28:45.217Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -3991,7 +3942,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:04.090Z",
+              "observedAt": "2026-10-21T11:28:44.875Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4060,7 +4011,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:03.870Z",
+              "observedAt": "2026-10-21T11:28:44.517Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4129,7 +4080,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:05.526Z",
+              "observedAt": "2026-10-21T11:28:47.134Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4142,20 +4093,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "8b31536a43604923aff0e17091cc712ff8c689305981e6ad2bf2b865d61911ca",
+        "contentHash": "34b9fbc11cc47d8d01ed2d5fdf9cca0a0e40c1f39c5b8a96b65983906a497cab",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Canonic",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 9,
           "contractsErrored": 0,
@@ -4249,7 +4200,7 @@
               "implementationName": "L2TokenUpgradeable",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:25.102Z",
+              "observedAt": "2026-10-21T11:27:55.150Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4318,7 +4269,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:25.761Z",
+              "observedAt": "2026-10-21T11:27:56.109Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4387,7 +4338,7 @@
               "implementationName": "L2TokenUpgradeable",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:25.432Z",
+              "observedAt": "2026-10-21T11:27:55.639Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4400,20 +4351,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "7d1f048a66bce0aa2cf622269334cb4cfff4b6b1905bbd1874e7a8df90959227",
+        "contentHash": "aa01268217d7ddecd6e7ca7898889099be6f0ff2b56016f8eb37d73c9f07dbcc",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Cap",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 3,
           "contractsErrored": 0,
@@ -4507,7 +4458,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:39.231Z",
+              "observedAt": "2026-10-21T11:28:25.374Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4576,7 +4527,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:39.448Z",
+              "observedAt": "2026-10-21T11:28:25.831Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4645,7 +4596,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:40.082Z",
+              "observedAt": "2026-10-21T11:28:27.146Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4714,7 +4665,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:34.049Z",
+              "observedAt": "2026-10-21T11:28:14.228Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4783,7 +4734,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:35.774Z",
+              "observedAt": "2026-10-21T11:28:17.841Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4852,7 +4803,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:34.271Z",
+              "observedAt": "2026-10-21T11:28:14.713Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4921,7 +4872,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:34.483Z",
+              "observedAt": "2026-10-21T11:28:15.076Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -4990,7 +4941,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:39.662Z",
+              "observedAt": "2026-10-21T11:28:26.175Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5059,7 +5010,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:37.048Z",
+              "observedAt": "2026-10-21T11:28:20.692Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5128,7 +5079,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:35.132Z",
+              "observedAt": "2026-10-21T11:28:16.419Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5197,7 +5148,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:36.635Z",
+              "observedAt": "2026-10-21T11:28:19.755Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5266,7 +5217,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:36.837Z",
+              "observedAt": "2026-10-21T11:28:20.222Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5335,7 +5286,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:39.014Z",
+              "observedAt": "2026-10-21T11:28:24.915Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5404,7 +5355,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:37.484Z",
+              "observedAt": "2026-10-21T11:28:21.631Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5473,7 +5424,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:37.693Z",
+              "observedAt": "2026-10-21T11:28:21.985Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5542,7 +5493,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:37.903Z",
+              "observedAt": "2026-10-21T11:28:22.509Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5611,7 +5562,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:38.122Z",
+              "observedAt": "2026-10-21T11:28:23.027Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5680,7 +5631,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:38.379Z",
+              "observedAt": "2026-10-21T11:28:23.501Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5749,7 +5700,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:38.610Z",
+              "observedAt": "2026-10-21T11:28:23.979Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5818,7 +5769,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:38.811Z",
+              "observedAt": "2026-10-21T11:28:24.443Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5887,7 +5838,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:36.207Z",
+              "observedAt": "2026-10-21T11:28:18.820Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -5956,7 +5907,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:34.903Z",
+              "observedAt": "2026-10-21T11:28:15.923Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6025,7 +5976,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:35.347Z",
+              "observedAt": "2026-10-21T11:28:16.888Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6094,7 +6045,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:33.823Z",
+              "observedAt": "2026-10-21T11:28:13.709Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6163,7 +6114,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:34.692Z",
+              "observedAt": "2026-10-21T11:28:15.439Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6232,7 +6183,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:36.421Z",
+              "observedAt": "2026-10-21T11:28:19.302Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6301,7 +6252,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:37.267Z",
+              "observedAt": "2026-10-21T11:28:21.148Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6370,7 +6321,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:35.560Z",
+              "observedAt": "2026-10-21T11:28:17.356Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6439,7 +6390,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:39.867Z",
+              "observedAt": "2026-10-21T11:28:26.651Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6508,7 +6459,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:35.993Z",
+              "observedAt": "2026-10-21T11:28:18.317Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6521,20 +6472,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "427664b3e5249adc5444efdc4bc0d3aea6fbc693b0e257aa8dd9bbda3fbc8c14",
+        "contentHash": "8d3f5544f07c91813a6026ea3e49f3ef314c381651811795519e9053ea1e56ca",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "GMX",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 30,
           "contractsErrored": 0,
@@ -6584,7 +6535,7 @@
       },
       "name": "Hit.One",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": null,
         "insufficiencies": [],
         "outcome": "skipped_stub",
@@ -6661,7 +6612,7 @@
               "implementationName": "NonfungibleTokenPositionDescriptor",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:18.976Z",
+              "observedAt": "2026-10-21T11:27:43.825Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6730,7 +6681,7 @@
               "implementationName": "SafeL2",
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:19.553Z",
+              "observedAt": "2026-10-21T11:27:44.769Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6799,7 +6750,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:17.021Z",
+              "observedAt": "2026-10-21T11:27:40.573Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6814,7 +6765,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:17.381Z",
+              "observedAt": "2026-10-21T11:27:41.069Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -6888,7 +6839,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:15.925Z",
+              "observedAt": "2026-10-21T11:27:38.333Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6903,7 +6854,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:16.268Z",
+              "observedAt": "2026-10-21T11:27:38.842Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -6977,7 +6928,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:15.223Z",
+              "observedAt": "2026-10-21T11:27:36.825Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -6992,7 +6943,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:15.744Z",
+              "observedAt": "2026-10-21T11:27:37.630Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -7066,7 +7017,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:17.480Z",
+              "observedAt": "2026-10-21T11:27:41.237Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7081,7 +7032,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:17.796Z",
+              "observedAt": "2026-10-21T11:27:41.720Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -7155,7 +7106,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:16.801Z",
+              "observedAt": "2026-10-21T11:27:40.199Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7224,7 +7175,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:16.369Z",
+              "observedAt": "2026-10-21T11:27:39.016Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7239,7 +7190,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:16.699Z",
+              "observedAt": "2026-10-21T11:27:39.519Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -7313,7 +7264,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:18.115Z",
+              "observedAt": "2026-10-21T11:27:42.253Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7393,7 +7344,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:19.343Z",
+              "observedAt": "2026-10-21T11:27:44.296Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7462,7 +7413,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:18.762Z",
+              "observedAt": "2026-10-21T11:27:43.365Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7531,7 +7482,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:18.340Z",
+              "observedAt": "2026-10-21T11:27:42.631Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7611,7 +7562,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:17.895Z",
+              "observedAt": "2026-10-21T11:27:41.891Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7680,7 +7631,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:18.550Z",
+              "observedAt": "2026-10-21T11:27:43.008Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7706,7 +7657,7 @@
       },
       "name": "Kumbaya",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 14,
           "contractsErrored": 0,
@@ -7856,7 +7807,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:22.012Z",
+              "observedAt": "2026-10-21T11:27:49.692Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7925,7 +7876,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:23.205Z",
+              "observedAt": "2026-10-21T11:27:51.758Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -7994,7 +7945,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:22.991Z",
+              "observedAt": "2026-10-21T11:27:51.268Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8063,7 +8014,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:23.417Z",
+              "observedAt": "2026-10-21T11:27:52.117Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8078,7 +8029,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:23.760Z",
+              "observedAt": "2026-10-21T11:27:52.590Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -8152,7 +8103,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:23.935Z",
+              "observedAt": "2026-10-21T11:27:53.009Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8167,7 +8118,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:12:24.286Z",
+              "observedAt": "2026-10-21T11:27:53.503Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -8241,7 +8192,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:22.775Z",
+              "observedAt": "2026-10-21T11:27:50.915Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8310,7 +8261,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:22.224Z",
+              "observedAt": "2026-10-21T11:27:50.074Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8379,7 +8330,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:12:22.554Z",
+              "observedAt": "2026-10-21T11:27:50.557Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8405,7 +8356,7 @@
       },
       "name": "Prism",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 8,
           "contractsErrored": 0,
@@ -8525,7 +8476,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:00.977Z",
+              "observedAt": "2026-10-21T11:28:37.929Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8594,7 +8545,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:13:01.199Z",
+              "observedAt": "2026-10-21T11:28:38.288Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8609,7 +8560,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:13:01.551Z",
+              "observedAt": "2026-10-21T11:28:38.826Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -8640,7 +8591,7 @@
       },
       "name": "SectorOne",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 2,
           "contractsErrored": 0,
@@ -8749,7 +8700,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:10.646Z",
+              "observedAt": "2026-10-21T11:28:57.391Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8818,7 +8769,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:10.856Z",
+              "observedAt": "2026-10-21T11:28:57.735Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8887,7 +8838,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:10.418Z",
+              "observedAt": "2026-10-21T11:28:57.046Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8956,7 +8907,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:10.073Z",
+              "observedAt": "2026-10-21T11:28:56.569Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -8969,20 +8920,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "cbec716cb19892d39e9e7293af0fbcea6f8d9ba38423bc48c8530f05a3d5d3ac",
+        "contentHash": "2cbc7261e5ab973760fe85ffa847de9ecd72454408b99856b132c1be5cdc4451",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "SIR",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 4,
           "contractsErrored": 0,
@@ -9076,7 +9027,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:12.211Z",
+              "observedAt": "2026-10-21T11:29:00.659Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9145,7 +9096,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:12.435Z",
+              "observedAt": "2026-10-21T11:29:01.020Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9214,7 +9165,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:12.658Z",
+              "observedAt": "2026-10-21T11:29:01.523Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9283,7 +9234,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:13.116Z",
+              "observedAt": "2026-10-21T11:29:02.221Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9352,7 +9303,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": true,
-              "observedAt": "2026-10-20T11:13:12.875Z",
+              "observedAt": "2026-10-21T11:29:01.872Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9365,20 +9316,20 @@
       ],
       "criterionEvidence": {},
       "lastKnownScoreableState": {
-        "contentHash": "75bde00965e9c0edcf12ec0d70d8a46f095225e1f8761fe516779190d93e005a",
+        "contentHash": "03c6306b8fbd17a916235a850a69acd45b386107984a7a42db1d0ae5e9cf1faf",
         "methodologyVersion": "v0.9",
         "note": "This is the last reader snapshot promoted under the strict completeness gate.",
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "state": "recorded"
       },
       "lastPublishedReaderState": {
-        "observedAt": "2026-10-20T11:11:54.401Z",
+        "observedAt": "2026-10-21T11:26:57.073Z",
         "readSource": "on-chain",
         "state": "recorded"
       },
       "name": "Uniswap V4",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 5,
           "contractsErrored": 0,
@@ -9423,13 +9374,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "No successful per-address presence observation is available in the public projection.",
-              "state": "unknown"
+              "reason": "Blockscout reported deployed bytecode at this address.",
+              "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "No source was found in the two verification services actually consulted (Blockscout and Sourcify). This does not claim that no source exists elsewhere.",
+              "state": "not_found"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -9439,8 +9390,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported the address unverified and Sourcify did not establish a full match (status=refused, reason=not-found).",
+              "state": "not_established"
             }
           },
           "label": "Exchange (indexer-attributed, custom upgradeable proxy)",
@@ -9463,22 +9414,42 @@
             {
               "compilerVersion": null,
               "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "creationTxHash": "0xd331d09aa7d998724076f87edba2d52a00389173069d347195c73abd7e532c02",
+              "creatorAddress": "0xCe46EE0664e02d6FF478f08e580De42EeFA29cC9",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:51.339Z",
+              "isContract": true,
+              "isVerified": false,
+              "observedAt": "2026-10-21T11:28:34.130Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "not_verified",
               "tags": []
+            },
+            {
+              "endpoint": "https://sourcify.dev/server/v2/contract/4326/0x5e3ae52eba0f9740364bd5dd39738e1336086a8b",
+              "identity": {
+                "addressMatches": null,
+                "chainIdMatches": null
+              },
+              "matchId": null,
+              "observedAt": "2026-10-21T11:28:34.602Z",
+              "provider": "sourcify",
+              "rawCreationMatch": null,
+              "rawMatch": null,
+              "rawRuntimeMatch": null,
+              "refusalReason": "not-found",
+              "requestedAddress": "0x5e3ae52eba0f9740364bd5dd39738e1336086a8b",
+              "requestedChainId": "4326",
+              "responseAddress": "0x5e3Ae52EbA0F9740364Bd5dd39738e1336086A8b",
+              "responseChainId": "4326",
+              "status": "refused",
+              "verifiedAt": null
             }
           ]
         },
@@ -9492,13 +9463,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "No successful per-address presence observation is available in the public projection.",
-              "state": "unknown"
+              "reason": "Blockscout reported deployed bytecode at this address.",
+              "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "No source was found in the two verification services actually consulted (Blockscout and Sourcify). This does not claim that no source exists elsewhere.",
+              "state": "not_found"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -9508,8 +9479,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported the address unverified and Sourcify did not establish a full match (status=refused, reason=not-found).",
+              "state": "not_established"
             }
           },
           "label": "Exchange implementation (active delegatecall target, slot 0x04)",
@@ -9532,22 +9503,42 @@
             {
               "compilerVersion": null,
               "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "creationTxHash": "0x0d4c92921bc0abf632e3d9b95e3a2dd1f3c1426d0e7b4e12c133ab4bb8165929",
+              "creatorAddress": "0xCe46EE0664e02d6FF478f08e580De42EeFA29cC9",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:53.519Z",
+              "isContract": true,
+              "isVerified": false,
+              "observedAt": "2026-10-21T11:28:34.891Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "not_verified",
               "tags": []
+            },
+            {
+              "endpoint": "https://sourcify.dev/server/v2/contract/4326/0xe1fc1881d1c495b399c9890930aa416e89d691c2",
+              "identity": {
+                "addressMatches": null,
+                "chainIdMatches": null
+              },
+              "matchId": null,
+              "observedAt": "2026-10-21T11:28:35.379Z",
+              "provider": "sourcify",
+              "rawCreationMatch": null,
+              "rawMatch": null,
+              "rawRuntimeMatch": null,
+              "refusalReason": "not-found",
+              "requestedAddress": "0xe1fc1881d1c495b399c9890930aa416e89d691c2",
+              "requestedChainId": "4326",
+              "responseAddress": "0xE1FC1881d1C495B399C9890930aa416e89d691c2",
+              "responseChainId": "4326",
+              "status": "refused",
+              "verifiedAt": null
             }
           ]
         },
@@ -9561,13 +9552,13 @@
             },
             "onchainPresence": {
               "key": "onchain_presence",
-              "reason": "No successful per-address presence observation is available in the public projection.",
-              "state": "unknown"
+              "reason": "Blockscout reported deployed bytecode at this address.",
+              "state": "established"
             },
             "publishedSource": {
               "key": "published_source",
-              "reason": "The explorer lookup was unavailable, so source availability could not be established from that source.",
-              "state": "unavailable"
+              "reason": "No source was found in the two verification services actually consulted (Blockscout and Sourcify). This does not claim that no source exists elsewhere.",
+              "state": "not_found"
             },
             "reproducibleBuild": {
               "key": "reproducible_build",
@@ -9577,8 +9568,8 @@
             "teamSubmitted": false,
             "verifiedBytecode": {
               "key": "verified_bytecode",
-              "reason": "The explorer result was unavailable and no strict alternative verification was established.",
-              "state": "unavailable"
+              "reason": "Blockscout reported the address unverified and Sourcify did not establish a full match (status=refused, reason=not-found).",
+              "state": "not_established"
             }
           },
           "label": "Exchange module (slot 0x01)",
@@ -9601,22 +9592,42 @@
             {
               "compilerVersion": null,
               "contractName": null,
-              "creationTxHash": null,
-              "creatorAddress": null,
+              "creationTxHash": "0xeaffa86198d8195112a99501951910085f40bf7da9ee3937f649078fc48a088c",
+              "creatorAddress": "0xCe46EE0664e02d6FF478f08e580De42EeFA29cC9",
               "endpoint": null,
-              "fetchError": "rate-limited (HTTP 429)",
-              "fetchSuccess": false,
+              "fetchError": null,
+              "fetchSuccess": true,
               "implementationAddress": null,
               "implementationName": null,
-              "isContract": null,
-              "isVerified": null,
-              "observedAt": "2026-10-20T11:12:55.714Z",
+              "isContract": true,
+              "isVerified": false,
+              "observedAt": "2026-10-21T11:28:35.553Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
               "proxyType": null,
-              "status": "unavailable",
+              "status": "not_verified",
               "tags": []
+            },
+            {
+              "endpoint": "https://sourcify.dev/server/v2/contract/4326/0x431212abc35737011ddd7306fb5229752b6bd115",
+              "identity": {
+                "addressMatches": null,
+                "chainIdMatches": null
+              },
+              "matchId": null,
+              "observedAt": "2026-10-21T11:28:36.038Z",
+              "provider": "sourcify",
+              "rawCreationMatch": null,
+              "rawMatch": null,
+              "rawRuntimeMatch": null,
+              "refusalReason": "not-found",
+              "requestedAddress": "0x431212abc35737011ddd7306fb5229752b6bd115",
+              "requestedChainId": "4326",
+              "responseAddress": "0x431212aBc35737011DDD7306Fb5229752B6BD115",
+              "responseChainId": "4326",
+              "status": "refused",
+              "verifiedAt": null
             }
           ]
         },
@@ -9679,7 +9690,7 @@
               "implementationName": null,
               "isContract": true,
               "isVerified": false,
-              "observedAt": "2026-10-20T11:12:57.897Z",
+              "observedAt": "2026-10-21T11:28:36.201Z",
               "optimizationEnabled": null,
               "optimizationRuns": null,
               "provider": "blockscout",
@@ -9694,7 +9705,7 @@
                 "chainIdMatches": null
               },
               "matchId": null,
-              "observedAt": "2026-10-20T11:13:00.335Z",
+              "observedAt": "2026-10-21T11:28:36.689Z",
               "provider": "sourcify",
               "rawCreationMatch": null,
               "rawMatch": null,
@@ -9725,7 +9736,7 @@
       },
       "name": "World Markets",
       "observation": {
-        "attemptedAt": "2026-10-20T11:11:54.401Z",
+        "attemptedAt": "2026-10-21T11:26:57.073Z",
         "diagnostics": {
           "contractsAttempted": 4,
           "contractsErrored": 0,
@@ -9734,7 +9745,7 @@
           "dynamicResolved": 3,
           "dynamicUnresolved": [],
           "explorerExpected": 4,
-          "explorerFailed": 3,
+          "explorerFailed": 0,
           "hardAnomalies": [],
           "permissionsBookExpected": false,
           "permissionsBookReachable": false,
@@ -9746,15 +9757,15 @@
           "safesResolved": 0,
           "softAnomalies": [
             {
-              "anomaly": "soft:explorer-fetch-failed",
+              "anomaly": "soft:not-verified",
               "label": "Exchange (indexer-attributed, custom upgradeable proxy)"
             },
             {
-              "anomaly": "soft:explorer-fetch-failed",
+              "anomaly": "soft:not-verified",
               "label": "Exchange implementation (active delegatecall target, slot 0x04)"
             },
             {
-              "anomaly": "soft:explorer-fetch-failed",
+              "anomaly": "soft:not-verified",
               "label": "Exchange module (slot 0x01)"
             },
             {
@@ -9765,22 +9776,17 @@
         },
         "insufficiencies": [
           {
-            "detail": "3 of 4 explorer fetch(es) failed",
-            "kind": "explorer_fetch_failed",
-            "label": "explorer"
-          },
-          {
-            "detail": "soft:explorer-fetch-failed",
+            "detail": "soft:not-verified",
             "kind": "soft_anomaly",
             "label": "Exchange (indexer-attributed, custom upgradeable proxy)"
           },
           {
-            "detail": "soft:explorer-fetch-failed",
+            "detail": "soft:not-verified",
             "kind": "soft_anomaly",
             "label": "Exchange implementation (active delegatecall target, slot 0x04)"
           },
           {
-            "detail": "soft:explorer-fetch-failed",
+            "detail": "soft:not-verified",
             "kind": "soft_anomaly",
             "label": "Exchange module (slot 0x01)"
           },
@@ -9801,7 +9807,6 @@
       "scoringEligibility": {
         "note": "Current evidence is incomplete. Absence of evidence is not converted into a failure or zero.",
         "reasons": [
-          "explorer_fetch_failed",
           "soft_anomaly",
           "soft_anomaly",
           "soft_anomaly",
@@ -9821,13 +9826,13 @@
   },
   "sourcesConsulted": {
     "blockscout": {
-      "latestObservedAt": "2026-10-20T11:13:13.116Z",
+      "latestObservedAt": "2026-10-21T11:29:02.221Z",
       "observations": 125,
-      "successful": 118,
-      "unavailable": 7
+      "successful": 125,
+      "unavailable": 0
     },
     "permissions-book": {
-      "latestAttemptedAt": "2026-10-20T11:11:54.401Z",
+      "latestAttemptedAt": "2026-10-21T11:26:57.073Z",
       "latestObservedAt": null,
       "note": "The store records reachability and the run attempt time, but not a separate permissions-book fetch timestamp; no exact consultation time is invented.",
       "observations": 1,
@@ -9835,9 +9840,9 @@
       "unavailable": 0
     },
     "sourcify": {
-      "latestObservedAt": "2026-10-20T11:13:01.551Z",
-      "observations": 9,
-      "successful": 9,
+      "latestObservedAt": "2026-10-21T11:28:38.826Z",
+      "observations": 12,
+      "successful": 12,
       "unavailable": 0
     }
   }
