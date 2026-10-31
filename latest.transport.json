@@ -2,14 +2,14 @@
   "schema": "reader-observation-transport/v1",
   "payloadSchema": "reader-observation/v1",
   "payloadPath": "latest.json",
-  "payloadSha256": "fdce427ad0622cad7659f34c02b6f66e557c6413b24b30099192fa6381c2a42d",
-  "attemptId": "20261030T122723.250Z",
-  "attemptedAt": "2026-10-30T12:27:23.250Z",
-  "publishedAt": "2026-10-30T12:29:23.865Z",
+  "payloadSha256": "68f5625ea9dbe914c25bc24167c41d009e50272c6078a44663c2d69729e4ee6b",
+  "attemptId": "20261031T115648.497Z",
+  "attemptedAt": "2026-10-31T11:56:48.497Z",
+  "publishedAt": "2026-10-31T11:59:22.023Z",
   "source": {
     "repository": "PetrAnto/megalenz",
     "ref": "refs/heads/main",
-    "commitSha": "1a77f0f211ea210bf83d058941c9d0d23eb72ca2"
+    "commitSha": "c3e41ed566a8cbadd63d4ad4c90691150dae4630"
   },
   "publisher": {
     "kind": "github-app-installation",
